@@ -24,7 +24,13 @@ pip install -r requirements.txt
 
 #### 预训练模型
 
-预训练模型很大（1.9G左右），请移步此处下载。
+预训练模型很大（1.9G左右），请移步此处下载。:
+
+
+
+>链接: https://pan.baidu.com/s/1eYc-CyQCy2xLyo5X49jAzA?pwd=jitt 
+>
+>提取码: jitt
 
 ## 训练
 可以直接运行以下命令
